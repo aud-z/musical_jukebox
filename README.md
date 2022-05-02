@@ -12,3 +12,4 @@ on a user's Spotify liked songs.
 [1] Brown, Tom B. et al. "Language Models are Few-Shot Learners." (2020).
 
 [2] Dhariwal, Prafulla et al. "Jukebox: A Generative Model for Music." (2020).
+<img width="850" alt="Screen Shot 2022-05-02 at 1 15 10 AM" src="https://user-images.githubusercontent.com/10016632/166187439-c0715dea-87bb-4207-ae7a-3ffa89bb0146.png">
